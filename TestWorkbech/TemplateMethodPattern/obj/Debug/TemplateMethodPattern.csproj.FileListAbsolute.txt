@@ -1,0 +1,5 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe.config
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TemplateMethodPattern\bin\Debug\TemplateMethodPattern.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TemplateMethodPattern\obj\Debug\TemplateMethodPattern.pdb

@@ -1,0 +1,6 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SingletonPattern\obj\Debug\SingletonPattern.pdb

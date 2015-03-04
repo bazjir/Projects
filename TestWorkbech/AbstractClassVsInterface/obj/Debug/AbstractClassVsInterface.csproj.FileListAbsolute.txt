@@ -1,0 +1,6 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\AbstractClassVsInterface\bin\Debug\AbstractClassVsInterface.exe.config
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\AbstractClassVsInterface\bin\Debug\AbstractClassVsInterface.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\AbstractClassVsInterface\bin\Debug\AbstractClassVsInterface.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\AbstractClassVsInterface\obj\Debug\AbstractClassVsInterface.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TestWcfService1\bin\TestWcfService1.dll
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TestWcfService1\bin\TestWcfService1.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TestWcfService1\obj\Debug\TestWcfService1.dll
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TestWcfService1\obj\Debug\TestWcfService1.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\TestWcfService1\obj\Debug\TestWcfService1.csprojResolveAssemblyReference.cache

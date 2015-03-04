@@ -1,0 +1,5 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\CommandPattern\bin\Debug\CommandPattern.exe.config
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\CommandPattern\bin\Debug\CommandPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\CommandPattern\bin\Debug\CommandPattern.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\CommandPattern\obj\Debug\CommandPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\CommandPattern\obj\Debug\CommandPattern.pdb

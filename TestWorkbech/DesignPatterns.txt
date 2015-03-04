@@ -1,0 +1,11 @@
+Creational Patterns
+- Singleton
+-
+
+Structural Patterns
+-
+-
+
+Behavioral Patterns
+- Template Method
+- Visitor Pattern

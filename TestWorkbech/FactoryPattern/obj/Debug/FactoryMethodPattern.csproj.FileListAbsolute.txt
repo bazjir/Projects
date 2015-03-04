@@ -1,0 +1,6 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\FactoryPattern\obj\Debug\FactoryMethodPattern.csprojResolveAssemblyReference.cache
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\FactoryPattern\obj\Debug\FactoryPattern.pdb

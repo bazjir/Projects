@@ -1,0 +1,8 @@
+1. Singleton Pattern 
+
+2. Decorator Pattern
+
+3. Template Method Pattern || Strategy Design Pattern
+
+4.
+

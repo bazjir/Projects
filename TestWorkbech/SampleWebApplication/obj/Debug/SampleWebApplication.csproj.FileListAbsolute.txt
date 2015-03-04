@@ -1,0 +1,5 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SampleWebApplication\bin\SampleWebApplication.dll
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SampleWebApplication\bin\SampleWebApplication.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SampleWebApplication\obj\Debug\SampleWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SampleWebApplication\obj\Debug\SampleWebApplication.dll
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\SampleWebApplication\obj\Debug\SampleWebApplication.pdb

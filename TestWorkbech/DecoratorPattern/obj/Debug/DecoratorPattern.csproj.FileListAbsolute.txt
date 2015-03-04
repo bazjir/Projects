@@ -1,0 +1,5 @@
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\DecoratorPattern\bin\Debug\DecoratorPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\DecoratorPattern\bin\Debug\DecoratorPattern.pdb
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\bazjir.ipekyuz\Documents\Visual Studio 2012\Projects\TestWorkbech\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
