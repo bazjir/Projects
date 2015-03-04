@@ -48,6 +48,12 @@ namespace AbstractClassVsInterface
             set;
         }
 
+        string IdentityNumber
+        {
+            get;
+            set;
+        }
+
         // cannot have implementation
 
 

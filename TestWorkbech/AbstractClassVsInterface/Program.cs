@@ -18,20 +18,20 @@ namespace AbstractClassVsInterface
             EmployeeAbstract emp = new Emp_FulltimeWithAbstract();
             emp.ID = "123";
             emp.LastName = "İpekyüz";
-            emp.FirstName = "BazJir";
+            emp.FirstName = "Baz Jir";
 
 
             // Interface
             IEmployee empWithInterface = new Emp_fulltime2();
             empWithInterface.ID = "123";
             empWithInterface.LastName = "İpekyüz";
-            empWithInterface.FirstName = "Baz Jir";
+            empWithInterface.FirstName = "Baz";
 
 
             // Base
             EmployeeBase empWithBase = new Emp_FullTimeWithBase();
             empWithBase.ID = 123;
-            empWithBase.FullName = " İpekyüz";
+            empWithBase.FullName = "Baz Jir İpekyüz";
 
             Console.WriteLine(emp.CalculateWage());
 
