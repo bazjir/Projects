@@ -18,7 +18,7 @@ namespace AbstractClassVsInterface
             EmployeeAbstract emp = new Emp_FulltimeWithAbstract();
             emp.ID = "123";
             emp.LastName = "İpekyüz";
-            emp.FirstName = "Baz Jir";
+            emp.FirstName = "BazJir";
 
 
             // Interface
